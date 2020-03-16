@@ -35,8 +35,14 @@ http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
 
 数据用MYSQL 导出文件 RegionData.SQL
 
-2018年数据总条数 46938
-2019年数据总条数 46469
+
+ - 2018年数据总条数 46938
+
+
+ - 2019年数据总条数 46469
+
+这一年，将近调整了500个行政区域，变化挺大的。
+
 
 
 # 其他说明：
