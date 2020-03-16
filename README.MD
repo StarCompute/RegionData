@@ -7,6 +7,10 @@
 
 http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html
 
+目前这份数据是国家统计局于2019年3月发布的截止到2019年9月的数据。
+
+http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
+
 国家统计局发布的是五级代码：省 \ 市 \ 县(区) \ 街道(乡、镇) \ 村;
 由于村的数据太复杂所以这里只包含了四级代码：省 \ 市 \ 县(区) \ 街道(乡、镇)
 
@@ -31,7 +35,9 @@ http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html
 
 数据用MYSQL 导出文件 RegionData.SQL
 
-数据总条数 46938
+2018年数据总条数 46938
+2019年数据总条数 46469
+
 
 # 其他说明：
 
