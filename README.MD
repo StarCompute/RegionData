@@ -120,7 +120,7 @@ http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
 
 
 数据用MYSQL 导出文件 RegionData.SQL
- - 2022年数据总条数 42527
+ - 2022年数据总条数 44704
  - 2021年数据总条数 42539
  - 2020年数据总条数 44976
  - 2019年数据总条数 46469
