@@ -7,6 +7,10 @@
 
 
 # 更新日志
+update 2024.3.26
+
+更新到了2023年的数据
+
 update 2023.2.22
 
 修正了2021年的数据。
@@ -81,25 +85,7 @@ update 2019.04.28
 俺要去问问国家统计局和民政局 :(  
 
 
-下面这份数据是国家统计局于2023年2月发布的截止到2022年10月31日的数据。
 
-http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2022/index.html
-
-下面这份数据是国家统计局于2022年2月发布的截止到2021年10月31日的数据。
-
-http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html
-
-下面这份数据是国家统计局于2021年3月发布的截止到2020年6月30日的数据。
-
-http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/index.html
-
-下面这份数据是国家统计局于2020年3月发布的截止到2019年10月31日的数据。
-
-http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019/index.html
-
-下面这份数据是国家统计局于2019年3月发布的截止到2019年9月的数据。
-
-http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
 
 国家统计局发布的是五级代码：省 \ 市 \ 县(区) \ 街道(乡、镇) \ 村;
 由于村的数据太复杂所以这里只包含了四级代码：省 \ 市 \ 县(区) \ 街道(乡、镇)
@@ -124,6 +110,7 @@ http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2018/index.html
 
 
 数据用MYSQL 导出文件 RegionData.SQL
+ - 2022年数据总条数 44699
  - 2022年数据总条数 44704
  - 2021年数据总条数 44715
  - 2020年数据总条数 44976
